@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao perfil do Victor Silva😁
+## Olá, me chamo Victor, estou atualmente buscando minha primeira vaga como programador Frontend Júnior, tenho uma boa base em HTML, CSS, Java Script, GIT, e estou atualmente me aprofundando em ReactJS.
+## Sou comunicativo, proativo, trabalho bem em equipe, responsável, esforçado, não tenho medo em perguntar algo a alguém quando for preciso, quando eu não souber de algo vou dizer que não sei, porém vou me empenhar em aprender o quanto antes. 
 
  <div>
    <a href="https://github.com/devemdobro">
